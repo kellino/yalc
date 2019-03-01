@@ -1,0 +1,13 @@
+resolver: lts-13.9
+
+packages:
+- .
+
+extra-deps: 
+- megaparsec-7.0.4
+- parser-combinators-1.0.0
+- unbound-generics-0.4.0
+- mtl-2.2.2
+- containers-0.6.0.1
+- pretty-1.1.3.6
+- text-1.2.3.1
